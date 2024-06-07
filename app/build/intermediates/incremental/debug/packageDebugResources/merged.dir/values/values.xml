@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="brightred">#C73659</color>
+    <color name="grey">#515151</color>
+    <color name="ic_launcher_background">#FFEEC7</color>
+    <color name="pale">#EEEEEE</color>
+    <color name="red">#A91D3A</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="accountTab">Akun Saya</string>
+    <string name="accountdesc">Berikut ini adalah informasi Akun Anda. Apabila ingin melakukan perubahan, silakan sunting informasi di bawah lalu tekan \"Simpan Perubahan\"</string>
+    <string name="app_name" translatable="false">myMovie</string>
+    <string name="details">Detail Film</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="languageCheck">Bahasa Indonesia otomatis diterapkan untuk aplikasi ini</string>
+    <string name="nowPlaying">Tayang Sekarang</string>
+    <style name="Base.Theme.MyMovie" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+    </style>
+    <style name="MyEditText" parent="@android:style/Widget.EditText">
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+    </style>
+    <style name="Theme.MyMovie" parent="Base.Theme.MyMovie"/>
+</resources>

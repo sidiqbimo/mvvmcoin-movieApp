@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bimobelajar.mymovie.app-mergeDebugResources-42:/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "D:\\Programming\\Kotlin\\MovieAppImprovedCH6\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "5,6,2,4,7,3",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "200,251,57,155,410,103",
+                        "endColumns": "49,157,44,43,91,50",
+                        "endOffsets": "245,404,97,194,497,149"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,105,263,308,352,444",
+                        "endColumns": "49,157,44,43,91,50",
+                        "endOffsets": "100,258,303,347,439,490"
+                    }
+                }
+            ]
+        }
+    ]
+}

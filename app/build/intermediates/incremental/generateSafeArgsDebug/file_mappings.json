@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.bimobelajar.mymovie.ui.login.LoginFragmentDirections","com.bimobelajar.mymovie.ui.register.RegisterFragmentDirections","com.bimobelajar.mymovie.ui.home.HomeFragmentDirections","com.bimobelajar.mymovie.ui.detail.DetailFragmentArgs","com.bimobelajar.mymovie.ui.profile.ProfileFragmentDirections"]}]

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bimobelajar.mymovie.app-mergeDebugResources-42:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sani2\\.gradle\\caches\\transforms-3\\385eefb2dacb01adfd8cb7b9e1c9da3b\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

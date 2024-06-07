@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/xml_backup_rules.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/navigation_nav_graph.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable-xhdpi_ic_account.png.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable-xhdpi/ic_account.png"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable-mdpi_ic_account.png.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable-mdpi/ic_account.png"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable_register.png.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable/register.png"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable_personred.png.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable/personred.png"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable_login.png.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable/login.png"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/layout_fragment_register.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable-hdpi_ic_account.png.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable-hdpi/ic_account.png"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/layout_item_movie.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable-xxhdpi_ic_account.png.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable-xxhdpi/ic_account.png"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/layout_fragment_detail.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable_editacc.png.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable/editacc.png"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable-xxxhdpi_ic_account.png.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable-xxxhdpi/ic_account.png"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/layout_activity_main.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/layout_fragment_home.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/layout_fragment_login.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/layout_fragment_profile.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bimobelajar.mymovie.app-debug-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bimobelajar.mymovie.app-main-46:/drawable/ic_launcher_background.xml"
+    }
+]
